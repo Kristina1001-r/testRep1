@@ -1,0 +1,12 @@
+Instructions
+Create a two separated git repositories and simulate the development of a software
+One repository representing traditional development, and the other continuous.
+Use 4 commits per feature per simulated day (at least 2 features + main branch and 5 days)
+The actual contents of the commit do not matter
+When writing the commit message, make sure to tag the day and the feature
+Ie. Day 0, Feature A, Commit 0
+ 
+Create a C# console application that manages a list of persons with their name, heights and weights.
+There should be a list command, that lists all the names and Body Mass Index (BMI) of each person.
+There should be a command for adding new persons to the list, and another for removing
+Most importantly, each feature should have unit tests verifying their behaviour (no less than 5 unit tests total).
